@@ -1,0 +1,45 @@
+### 練習 3.2.1 - 1
+
+##### 說明
+> java提供了一個方便開發者從命令行得到輸入的方法，一個叫做Scanner的類
+
+#### 步驟
+1. 在定義的類上方聲明引用 `java.util.Scanner`
+    ```java
+    import java.util.Scanner;
+    ```
+
+2. 聲明 `Scanner` 類型的變量
+    ```java
+    Scanner sc;
+    ```
+    > 註：如果聲明一個物件的變量但還沒有要進行賦值，建議給初始值null
+    ```java
+    Scanner sc = null;
+    ```
+
+3. 新建一個 `Scanner` 物件，參數為 `System.in` ，並賦值給剛剛聲明的變量
+    ```java
+    sc = new Scanner(System.in);
+    ```
+    步驟 2 和 3 也可以合成一行，如下
+    ```java
+    Scanner sc = new Scanner(System.in);
+    ```
+
+4. 使用 `next()` 方法讀取下一個詞，並由 `System.out` 輸出
+    ```java
+    System.out.println(sc.next());
+    ```
+
+5. 完成
+    ```java
+    import java.util.Scanner;
+
+    public class Main {
+        public static void main(String[] args) {
+            Scanner sc = new Scanner(System.in);
+            System.out.println(sc.next());
+        }
+    }
+    ```
