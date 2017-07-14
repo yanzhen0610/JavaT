@@ -45,11 +45,6 @@ Java SE 6 技術手冊
   - [3.4 流程控制](docs/CH03.md#34-%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6)
   - [3.5 接下來的主題](docs/CH03.md#35-%E6%8E%A5%E4%B8%8B%E4%BE%86%E7%9A%84%E4%B8%BB%E9%A1%8C)
  
-- [第 4 章 從 autoboxing、unboxing 認識物件](docs/CH04.md#%E7%AC%AC-4-%E7%AB%A0-%E5%BE%9E-autoboxingunboxing-%E8%AA%8D%E8%AD%98%E7%89%A9%E4%BB%B6)
-  - [4.1 關於物件](docs/CH04.md#41-%E9%97%9C%E6%96%BC%E7%89%A9%E4%BB%B6)
-  - [4.2 自動裝箱、拆箱](docs/CH04.md#42-%E8%87%AA%E5%8B%95%E8%A3%9D%E7%AE%B1%E6%8B%86%E7%AE%B1)
-  - [4.3 接下來的主題](docs/CH04.md#43-%E6%8E%A5%E4%B8%8B%E4%BE%86%E7%9A%84%E4%B8%BB%E9%A1%8C)
- 
 - [第 5 章 陣列](docs/CH05.md#%E7%AC%AC-5-%E7%AB%A0-%E9%99%A3%E5%88%97)
   - [5.1 一維陣列、二維陣列](docs/CH05.md#51-%E4%B8%80%E7%B6%AD%E9%99%A3%E5%88%97%E4%BA%8C%E7%B6%AD%E9%99%A3%E5%88%97)
   - [5.2 進階陣列觀念](docs/CH05.md#52-%E9%80%B2%E9%9A%8E%E9%99%A3%E5%88%97%E8%A7%80%E5%BF%B5)
@@ -98,6 +93,11 @@ Java SE 6 技術手冊
   - [13.1 Collection 類](docs/CH13.md#131-collection-%E9%A1%9E)
   - [13.2 Map 類](docs/CH13.md#132-map-%E9%A1%9E)
   - [13.3 接下來的主題](docs/CH13.md#133-%E6%8E%A5%E4%B8%8B%E4%BE%86%E7%9A%84%E4%B8%BB%E9%A1%8C)
+  
+- [第 4 章 從 autoboxing、unboxing 認識物件](docs/CH04.md#%E7%AC%AC-4-%E7%AB%A0-%E5%BE%9E-autoboxingunboxing-%E8%AA%8D%E8%AD%98%E7%89%A9%E4%BB%B6)
+  - [4.1 關於物件](docs/CH04.md#41-%E9%97%9C%E6%96%BC%E7%89%A9%E4%BB%B6)
+  - [4.2 自動裝箱、拆箱](docs/CH04.md#42-%E8%87%AA%E5%8B%95%E8%A3%9D%E7%AE%B1%E6%8B%86%E7%AE%B1)
+  - [4.3 接下來的主題](docs/CH04.md#43-%E6%8E%A5%E4%B8%8B%E4%BE%86%E7%9A%84%E4%B8%BB%E9%A1%8C)
  
 - [第 14 章 輸入輸出](docs/CH14.md#%E7%AC%AC-14-%E7%AB%A0-%E8%BC%B8%E5%85%A5%E8%BC%B8%E5%87%BA)
   - [14.1 檔案](docs/CH14.md#141-%E6%AA%94%E6%A1%88)
